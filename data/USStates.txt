@@ -1,0 +1,14 @@
+id:int,Name,Capital
+1,Alabama,Montgomery
+2,Alaska,Juneau
+3,Arizona,Phoenix
+4,Arkansas,Little Rock
+5,California,Sacramento
+6,Colorado,Denver
+7,Connecticut,Hartford
+8,Delaware,Dover
+9,Florida,Tallahassee
+10,Georgia,Atlanta
+11,Hawaii,Honolulu
+12,Idaho,Boise
+13,Illinois,Springfield

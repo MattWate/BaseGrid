@@ -1,0 +1,10 @@
+id:str,Name:str,Capital City:str
+2,Eastern Cape,Bhisho
+3,Free State,Bloemfontein
+4,Gauteng,Johannesburg
+5,KwaZulu-Natal,Pietermaritzburg
+6,Limpopo,Polokwane
+7,Mpumalanga,Mbombela
+8,Northern Cape,Kimberley
+9,North West,Mahikeng
+10,Western Cape,Cape Town

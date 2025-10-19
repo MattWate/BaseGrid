@@ -1,0 +1,91 @@
+id:int,Name,ISO 2,ISO 3,Capital 
+2,Afghanistan,AF,AFG,Kabul
+3,Albania,AL,ALB,Tirana
+4,Algeria,DZ,DZA,Algiers
+5,Andorra,AD,AND,Andorra la Vella
+6,Angola,AO,AGO,Luanda
+1,Argentina,AR,ARG,Buenos Aires
+1,Armenia,AM,ARM,Yerevan
+1,Australia,AU,AUS,Canberra
+1,Austria,AT,AUT,Vienna
+1,Azerbaijan,AZ,AZE,Baku
+1,Bahamas,BS,BHS,Nassau
+1,Bahrain,BH,BHR,Manama
+1,Bangladesh,BD,BGD,Dhaka
+1,Barbados,BB,BRB,Bridgetown
+1,Belarus,BY,BLR,Minsk
+1,Belgium,BE,BEL,Brussels
+1,Belize,BZ,BLZ,Belmopan
+1,Benin,BJ,BEN,Porto-Novo
+1,Bhutan,BT,BTN,Thimphu
+1,Bolivia,BO,BOL,Sucre
+1,Bosnia and Herzegovina,BA,BIH,Sarajevo
+1,Botswana,BW,BWA,Gaborone
+1,Brazil,BR,BRA,Brasília
+1,Brunei,BN,BRN,Bandar Seri Begawan
+1,Bulgaria,BG,BGR,Sofia
+1,Burkina Faso,BF,BFA,Ouagadougou
+1,Burundi,BI,BDI,Gitega
+1,Cambodia,KH,KHM,Phnom Penh
+1,Cameroon,CM,CMR,Yaoundé
+1,Canada,CA,CAN,Ottawa
+1,Chile,CL,CHL,Santiago
+1,China,CN,CHN,Beijing
+1,Colombia,CO,COL,Bogotá
+1,Costa Rica,CR,CRI,San José
+1,Croatia,HR,HRV,Zagreb
+1,Cuba,CU,CUB,Havana
+1,Cyprus,CY,CYP,Nicosia
+1,Czechia,CZ,CZE,Prague
+1,Denmark,DK,DNK,Copenhagen
+1,Ecuador,EC,ECU,Quito
+1,Egypt,EG,EGY,Cairo
+1,Estonia,EE,EST,Tallinn
+1,Ethiopia,ET,ETH,Addis Ababa
+1,Finland,FI,FIN,Helsinki
+1,France,FR,FRA,Paris
+1,Germany,DE,DEU,Berlin
+1,Ghana,GH,GHA,Accra
+1,Greece,GR,GRC,Athens
+1,Hungary,HU,HUN,Budapest
+1,Iceland,IS,ISL,Reykjavík
+1,India,IN,IND,New Delhi
+1,Indonesia,ID,IDN,Jakarta
+1,Iran,IR,IRN,Tehran
+1,Iraq,IQ,IRQ,Baghdad
+1,Ireland,IE,IRL,Dublin
+1,Israel,IL,ISR,Jerusalem
+1,Italy,IT,ITA,Rome
+1,Jamaica,JM,JAM,Kingston
+1,Japan,JP,JPN,Tokyo
+1,Kenya,KE,KEN,Nairobi
+1,Malaysia,MY,MYS,Kuala Lumpur
+1,Mexico,MX,MEX,Mexico City
+1,Netherlands,NL,NLD,Amsterdam
+1,New Zealand,NZ,NZL,Wellington
+1,Nigeria,NG,NGA,Abuja
+1,Norway,NO,NOR,Oslo
+1,Pakistan,PK,PAK,Islamabad
+1,Peru,PE,PER,Lima
+1,Philippines,PH,PHL,Manila
+1,Poland,PL,POL,Warsaw
+1,Portugal,PT,PRT,Lisbon
+1,Qatar,QA,QAT,Doha
+1,Romania,RO,ROU,Bucharest
+1,Russia,RU,RUS,Moscow
+1,Saudi Arabia,SA,SAU,Riyadh
+1,Singapore,SG,SGP,Singapore
+1,South Africa,ZA,ZAF,Pretoria
+1,South Korea,KR,KOR,Seoul
+1,Spain,ES,ESP,Madrid
+1,Sri Lanka,LK,LKA,Sri Jayawardenepura Kotte
+1,Sweden,SE,SWE,Stockholm
+1,Switzerland,CH,CHE,Bern
+1,Thailand,TH,THA,Bangkok
+1,Turkey,TR,TUR,Ankara
+1,Ukraine,UA,UKR,Kyiv
+1,United Arab Emirates,AE,ARE,Abu Dhabi
+1,United Kingdom,GB,GBR,London
+1,United States,US,USA,Washington D.C.
+1,Vietnam,VN,VNM,Hanoi
+1,Zimbabwe,ZW,ZWE,Harare
