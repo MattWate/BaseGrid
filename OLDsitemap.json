@@ -1,0 +1,76 @@
+[
+  {
+    "title": "Home",
+    "object": "home",
+    "children": []
+  },
+  {
+    "title": "About Us",
+    "url": "#",
+    "children": [
+      {
+        "title": "Our Team",
+        "url": "/view?object=team"
+      }
+    ]
+  },
+  {
+    "title": "Entities",
+    "url": "",
+    "children": [
+      {
+        "title": "Persons",
+        "url": "/view?object=persons"
+      },
+      {
+        "title": "Companies",
+        "url": "/view?object=companies"
+      }
+    ]
+  },
+  {
+    "title": "Lookups",
+    "url": "#",
+    "children": [
+      {
+        "title": "Countries",
+        "object": "countries"
+      },
+      {
+        "title": "Cities",
+        "object": "Cities"
+      },
+      {
+        "title": "USA States",
+        "url": "/view?object=USStates"
+      },
+      {
+        "title": "UK Counties",
+        "url": "/view?object=UKCounties"
+      },
+      {
+        "title": "SA Provinces",
+        "object": "SAProvinces"
+      },
+      {
+        "title": "Another thing",
+        "object": "Another"
+      }
+    ]
+  },
+  {
+    "title": "Rules",
+    "url": "#",
+    "children": []
+  },
+  {
+    "title": "Workflows",
+    "url": "/view?object=workflows",
+    "children": []
+  },
+  {
+    "title": "To do list",
+    "url": "/view?object=todo",
+    "children": []
+  }
+]

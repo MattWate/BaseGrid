@@ -1,0 +1,251 @@
+id:int,Name,Registered number,Country
+2,Company_1,136541-69,Canada
+3,Company_2,651496-52,United Kingdom
+4,Company_3,512065-71,Japan
+5,Company_4,692386-47,United States
+6,Company_5,961266-87,Canada
+7,Company_6,344871-24,Japan
+8,Company_7,501450-31,Australia
+9,Company_8,569538-17,Canada
+10,Company_9,630317-67,Brazil
+11,Company_10,792096-53,India
+12,Company_11,885658-98,France
+13,Company_12,437086-60,Canada
+14,Company_13,709378-96,India
+15,Company_14,986878-91,United States
+16,Company_15,307066-27,Japan
+17,Company_16,664501-13,Japan
+18,Company_17,998695-83,Canada
+19,Company_18,638835-72,Japan
+20,Company_19,455326-94,Japan
+21,Company_20,894364-20,United States
+22,Company_21,368491-94,Japan
+23,Company_22,773841-61,Germany
+24,Company_23,962468-18,India
+25,Company_24,785149-79,France
+26,Company_25,217406-50,India
+27,Company_26,409427-58,China
+28,Company_27,971421-71,Australia
+29,Company_28,423273-17,United Kingdom
+30,Company_29,327425-50,Australia
+31,Company_30,138838-66,Canada
+32,Company_31,345462-49,United States
+33,Company_32,499755-50,Brazil
+34,Company_33,243267-66,France
+35,Company_34,446177-16,United States
+36,Company_35,640984-20,Brazil
+37,Company_36,858150-50,United States
+38,Company_37,273971-61,Canada
+39,Company_38,103547-19,India
+40,Company_39,252901-75,United Kingdom
+41,Company_40,236634-33,Germany
+42,Company_41,781413-74,Brazil
+43,Company_42,127561-18,France
+44,Company_43,704329-69,France
+45,Company_44,925101-89,United States
+46,Company_45,708935-48,Canada
+47,Company_46,174188-90,India
+48,Company_47,273963-62,Germany
+49,Company_48,201906-21,Japan
+50,Company_49,996661-55,India
+51,Company_50,484322-80,Brazil
+52,Company_51,760953-95,Canada
+53,Company_52,672526-14,Japan
+54,Company_53,324901-88,Canada
+55,Company_54,264864-84,Canada
+56,Company_55,372814-40,India
+57,Company_56,227037-28,Germany
+58,Company_57,276430-87,Brazil
+59,Company_58,647813-22,Japan
+60,Company_59,332097-84,France
+61,Company_60,604331-52,India
+62,Company_61,858822-94,United Kingdom
+63,Company_62,334421-42,Japan
+64,Company_63,975971-35,United States
+65,Company_64,104218-40,Japan
+66,Company_65,245364-60,United States
+67,Company_66,789681-29,Germany
+68,Company_67,140398-16,Brazil
+69,Company_68,299970-45,China
+70,Company_69,153905-61,United States
+71,Company_70,199549-47,Brazil
+72,Company_71,168759-84,Brazil
+73,Company_72,660027-85,United States
+74,Company_73,902655-34,China
+75,Company_74,859046-44,Brazil
+76,Company_75,606961-42,United States
+77,Company_76,224039-98,France
+78,Company_77,608174-38,France
+79,Company_78,127222-49,China
+80,Company_79,400719-52,Japan
+81,Company_80,387581-39,United Kingdom
+82,Company_81,519109-92,Australia
+83,Company_82,972026-61,India
+84,Company_83,543422-28,Japan
+85,Company_84,190256-22,India
+86,Company_85,885042-93,China
+87,Company_86,878889-37,Brazil
+88,Company_87,553629-17,Canada
+89,Company_88,822737-57,Japan
+90,Company_89,919484-63,India
+91,Company_90,848439-45,Brazil
+92,Company_91,224452-12,Japan
+93,Company_92,948958-24,China
+94,Company_93,688350-61,Canada
+95,Company_94,851793-71,Canada
+96,Company_95,858181-82,Canada
+97,Company_96,244250-99,Canada
+98,Company_97,698407-95,India
+99,Company_98,747525-68,France
+100,Company_99,133595-82,Japan
+101,Company_100,661824-68,Canada
+102,Company_101,950748-47,Canada
+103,Company_102,987283-79,Germany
+104,Company_103,970039-72,United States
+105,Company_104,622984-45,India
+106,Company_105,913321-95,Brazil
+107,Company_106,670592-44,United States
+108,Company_107,282673-31,United Kingdom
+109,Company_108,569759-90,Canada
+110,Company_109,986474-41,Australia
+111,Company_110,703014-87,Japan
+112,Company_111,680208-82,Canada
+113,Company_112,239536-93,India
+114,Company_113,345228-91,Germany
+115,Company_114,603102-24,Germany
+116,Company_115,115155-35,France
+117,Company_116,952676-96,China
+118,Company_117,257133-40,France
+119,Company_118,106000-17,Germany
+120,Company_119,750881-28,Germany
+121,Company_120,699166-35,Japan
+122,Company_121,864935-14,United Kingdom
+123,Company_122,472285-21,United States
+124,Company_123,782985-86,France
+125,Company_124,659641-98,United States
+126,Company_125,595975-78,United States
+127,Company_126,987812-96,Japan
+128,Company_127,573282-85,Germany
+129,Company_128,973467-29,China
+130,Company_129,285913-72,United Kingdom
+131,Company_130,463551-48,Japan
+132,Company_131,762645-64,United Kingdom
+133,Company_132,555734-48,India
+134,Company_133,567752-85,Japan
+135,Company_134,329072-28,Australia
+136,Company_135,461355-17,Brazil
+137,Company_136,135930-55,United Kingdom
+138,Company_137,764703-98,Japan
+139,Company_138,302859-91,Brazil
+140,Company_139,634494-51,Canada
+141,Company_140,340256-74,Brazil
+142,Company_141,464008-77,China
+143,Company_142,769758-65,France
+144,Company_143,442881-10,Germany
+145,Company_144,399355-47,Brazil
+146,Company_145,402591-15,China
+147,Company_146,912789-50,China
+148,Company_147,880243-79,Brazil
+149,Company_148,849017-26,Germany
+150,Company_149,300299-78,Germany
+151,Company_150,728158-43,Brazil
+152,Company_151,345736-87,China
+153,Company_152,656409-41,India
+154,Company_153,985591-96,United Kingdom
+155,Company_154,838221-36,Australia
+156,Company_155,672176-34,United Kingdom
+157,Company_156,853884-18,Canada
+158,Company_157,429077-42,Canada
+159,Company_158,958002-94,Brazil
+160,Company_159,122707-91,France
+161,Company_160,720836-40,Canada
+162,Company_161,247312-90,France
+163,Company_162,741591-69,France
+164,Company_163,475745-35,India
+165,Company_164,263713-11,China
+166,Company_165,731283-88,United States
+167,Company_166,799007-81,Brazil
+168,Company_167,731104-96,Brazil
+169,Company_168,478413-16,United Kingdom
+170,Company_169,295587-12,China
+171,Company_170,879860-81,India
+172,Company_171,789121-71,Germany
+173,Company_172,496156-57,Australia
+174,Company_173,721298-47,India
+175,Company_174,537411-67,India
+176,Company_175,924748-44,France
+177,Company_176,108804-84,Australia
+178,Company_177,713761-68,Canada
+179,Company_178,813585-53,Brazil
+180,Company_179,132147-27,China
+181,Company_180,529848-16,Australia
+182,Company_181,593168-57,Australia
+183,Company_182,253397-29,United Kingdom
+184,Company_183,867836-93,Japan
+185,Company_184,388584-65,India
+186,Company_185,445121-32,United States
+187,Company_186,886595-43,Japan
+188,Company_187,139562-67,Australia
+189,Company_188,853345-53,France
+190,Company_189,666400-87,Australia
+191,Company_190,328608-44,Japan
+192,Company_191,288914-46,Australia
+193,Company_192,824139-90,Canada
+194,Company_193,561519-37,France
+195,Company_194,870499-32,United States
+196,Company_195,602956-22,China
+197,Company_196,662973-81,Brazil
+198,Company_197,806026-96,Australia
+199,Company_198,217361-54,Brazil
+200,Company_199,165564-35,France
+201,Company_200,337677-32,Brazil
+202,Company_201,448243-15,India
+203,Company_202,698747-43,Canada
+204,Company_203,730759-52,China
+205,Company_204,484840-89,India
+206,Company_205,514899-15,United States
+207,Company_206,297715-62,Australia
+208,Company_207,104769-77,Germany
+209,Company_208,376665-21,Canada
+210,Company_209,239175-29,France
+211,Company_210,675785-59,Germany
+212,Company_211,581215-62,Japan
+213,Company_212,460707-66,Australia
+214,Company_213,212018-78,Canada
+215,Company_214,143337-78,China
+216,Company_215,361737-55,France
+217,Company_216,728273-34,Germany
+218,Company_217,837754-59,Germany
+219,Company_218,525803-93,United States
+220,Company_219,173933-21,India
+221,Company_220,433851-61,United Kingdom
+222,Company_221,649710-38,Australia
+223,Company_222,937967-56,Germany
+224,Company_223,183870-52,Germany
+225,Company_224,843582-77,France
+226,Company_225,948309-48,China
+227,Company_226,307404-78,Australia
+228,Company_227,807123-90,Canada
+229,Company_228,755786-35,France
+230,Company_229,533871-28,France
+231,Company_230,771233-98,Canada
+232,Company_231,391453-23,Canada
+233,Company_232,781098-48,United Kingdom
+234,Company_233,249597-36,Germany
+235,Company_234,612950-67,United Kingdom
+236,Company_235,283655-14,Brazil
+237,Company_236,341993-99,Canada
+238,Company_237,502376-99,United Kingdom
+239,Company_238,659217-23,China
+240,Company_239,900832-62,China
+241,Company_240,306731-94,Australia
+242,Company_241,842248-42,France
+243,Company_242,262140-85,Australia
+244,Company_243,873029-80,United States
+245,Company_244,899548-65,United Kingdom
+246,Company_245,263510-59,Germany
+247,Company_246,637385-70,Germany
+248,Company_247,817253-58,China
+249,Company_248,575530-64,China
+250,Company_249,919992-71,Brazil
+251,Company_250,525225-79,Brazil

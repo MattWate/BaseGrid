@@ -1,0 +1,8 @@
+Task,Status
+Ask about why textFile provider is still not working,Done
+Ask about a button to kill the instance to avoid having to keep changing the port,Done
+Fix the lookup dropdown,Done
+Think about inferring the sitemap from the inferred schema,Done
+Try to suppress the deprecated error to tidy up the terminal,Open
+Column headers are broken,Done
+Why is tableMetadata still there

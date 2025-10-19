@@ -1,0 +1,24 @@
+{
+  "port": 3001,
+  "dataSources": [
+  {
+    "id": "source1",
+    "name": "Supabase Database",
+    "type": "supabase",
+    "enabled": true,
+    "config": {
+      "url": "https://sykynazvskcojcbnlkka.supabase.co",
+      "key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN5a3luYXp2c2tjb2pjYm5sa2thIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjA0Mzc3ODEsImV4cCI6MjA3NjAxMzc4MX0.l5ybdgjeUe-B9HVzpwrR9o-l3b6EKGytUrv7Z_0gY3c"
+    }
+  },
+  {
+    "id": "source2",
+	"name": "Text Files",
+	"type": "textfiles",
+	"enabled": true,
+	"config": {
+		"dataPath": "./data"
+	}
+  }
+  ]
+}
