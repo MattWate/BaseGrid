@@ -1,3 +1,0 @@
-id:str,Name:str,Description:str
-2,Onboard person,Create a new person record and complete all assigned tasks
-3,Onboard company,Create a new company record and complete all assigned tasks

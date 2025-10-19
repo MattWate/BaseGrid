@@ -1,7 +1,0 @@
-id:str,Name:str,Preferred moniker:str,Job title:str,Abbreviation:str
-2,Liam Wate,Liam,Chief executive officer,CEO
-3,Alexandra Wate,Alex,Chief operations officer,COO
-4,Dominic Wate,Dom,Chief information officer,CIO
-5,Matthew Wate,Matt,Chief marketing officer,CMO
-6,Harrison Wate,Harry,Chief technical officer,CTO
-7,Dean Marven,Dean,Chief buying officer,CBO

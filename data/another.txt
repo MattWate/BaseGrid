@@ -1,7 +1,0 @@
-id:str,Name:str,Date of birth:dat,Age:int,Value:num,Country:lu:Countries
-1,Liam Wate,1960-04-27,65,22.79,United Kingdom
-2,Matthew (Matt) Wate,1986-04-27,39,67.43,South Africa
-3,Alexandra (Alex) Wate,1992-09-16,33,99.99,United Kingdom
-4,Dominic (Dom) Wate,1988-01-19,65,22.79,United Kingdom
-5,Harrison (Harry) Wate,1994-09-13,39,67.43,United Kingdom
-6,Marguerite (Rita) Wate,1960-10-17,57,100,Kenya
